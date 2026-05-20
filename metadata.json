@@ -1,0 +1,6 @@
+{
+  "name": "Kanban Board",
+  "description": "A modern task management Kanban board with smooth interaction, card filters, and columns for backlog, to-do, in-progress, review, blocked, and completed tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
